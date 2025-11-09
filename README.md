@@ -4,6 +4,6 @@
 
 <div align="center">
   
-[![Site](https://img.shields.io/badge/Website-d97757)](https://dochertydev.github.io/Landing-Page/) [![Static Badge](https://img.shields.io/badge/LinkedIn-0764c1)](https://www.linkedin.com/in/sean-docherty-901360239/) [![Static Badge](https://img.shields.io/badge/Trailblazer-009ddc)](https://www.salesforce.com/trailblazer/smdocherty) [![Static Badge](https://img.shields.io/badge/YouTube-fe0032)](https://www.youtube.com/@DochertyDev) [![GitHub Stars](https://img.shields.io/github/stars/DochertyDev)](https://github.com/DochertyDev)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-0764c1)](https://www.linkedin.com/in/sean-docherty-901360239/) [![Static Badge](https://img.shields.io/badge/Trailblazer-009ddc)](https://www.salesforce.com/trailblazer/smdocherty) [![Site](https://img.shields.io/badge/Website-d97757)](https://dochertydev.github.io/Landing-Page/) [![Static Badge](https://img.shields.io/badge/YouTube-fe0032)](https://www.youtube.com/@DochertyDev) [![GitHub Stars](https://img.shields.io/github/stars/DochertyDev)](https://github.com/DochertyDev)
 
 </div>
