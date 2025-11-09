@@ -7,3 +7,17 @@
 [![Static Badge](https://img.shields.io/badge/LinkedIn-0764c1)](https://www.linkedin.com/in/sean-docherty-901360239/) [![Static Badge](https://img.shields.io/badge/Trailblazer-009ddc)](https://www.salesforce.com/trailblazer/smdocherty) [![Site](https://img.shields.io/badge/Website-d97757)](https://dochertydev.github.io/Landing-Page/) [![Static Badge](https://img.shields.io/badge/YouTube-fe0032)](https://www.youtube.com/@DochertyDev) [![GitHub Stars](https://img.shields.io/github/stars/DochertyDev)](https://github.com/DochertyDev)
 
 </div>
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DochertyDev&theme=github-compact&hide_title=true&hide_border=true&color=ffffff&radius=8&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
+
+
+
+
+
+
+
+
+
