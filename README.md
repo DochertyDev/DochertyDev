@@ -9,7 +9,7 @@
 </div>
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DochertyDev&theme=transparent&hide_border=true&border_radius=8&mode=weekly&ring=26A641&fire=006AFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&currStreakLabel=FFFFFF&dates=26A641&border=FFFFFF&stroke=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DochertyDev&theme=transparent&hide_border=true&border_radius=8&mode=daily&ring=26A641&fire=006AFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&currStreakLabel=FFFFFF&dates=26A641&border=FFFFFF&stroke=FFFFFF)](https://git.io/streak-stats)
 </div>
 
 <div align="center">
