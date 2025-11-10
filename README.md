@@ -10,8 +10,10 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Docherty%20Dev&theme=transparent&border_radius=8&card_width=395&card_height=150&border=FFFFFF&stroke=FFFFFF&ring=26A641&fire=006AFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=006AFF&hide_longest_streak=true&hide_border=true)](https://git.io/streak-stats) <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DochertyDev&layout=compact&theme=transparent&hide_border=true&border_radius=8&text_color=FFFFFF&title_color=FFFFFF"/> 
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=DochertyDev&theme=transparent&border_radius=8&card_width=395&card_height=150&border=FFFFFF&stroke=FFFFFF&ring=26A641&fire=006AFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=006AFF&hide_longest_streak=true&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DochertyDev&layout=compact&theme=transparent&hide_border=true&border_radius=8&text_color=FFFFFF&title_color=FFFFFF"/>
 </div>
+
 
 <div align="center">
 
